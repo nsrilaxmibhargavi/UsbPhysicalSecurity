@@ -36,8 +36,7 @@ This project was developed collaboratively, where I focused on **UI/UX improveme
 
 ## Clone the repository
 
- - git clone https://github.com/nsrilaxmibhargavi/UsbPhysicalSecurity.git
-   cd UsbPhysicalSecurity
+   git clone https://github.com/Shaikh-Aiman/USB-Physical-Security.git
 
  - Install the required dependencies
 
