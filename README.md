@@ -30,35 +30,35 @@ This project was developed collaboratively, where I focused on **UI/UX improveme
 
 ## Installation & Setup  
 ### Prerequisites  
-Ensure Python **3.x** is installed.  
+ - Ensure Python **3.x** is installed.  
 
 ### Steps to Install  
-```bash
-# Clone the repository
-git clone https://github.com/Shaikh-Aiman/USB-Physical-Security.git
-cd USB-Physical-Security
 
-# Install dependencies
-pip install pyusb
+## Clone the repository
 
-### Running the Application  
+ -      git clone https://github.com/nsrilaxmibhargavi/UsbPhysicalSecurity.git
+        cd UsbPhysicalSecurity
+
+ - Install the required dependencies
+
+## Running the Application  
 python main.py
 Alternatively, use the provided .exe file for direct execution.  
 
 ## Working  
-- Launch Application – Start the app using main.py or the executable file.  
-- Authentication – A passkey verification system ensures only authorized users can modify USB settings.  
-- USB Enable/Disable – Choose to enable or restrict USB storage access.  
-- USB Formatting – Select a USB drive and format it securely.  
-- Help & Documentation – Built-in guide for usability.  
+- **Launch Application** – Start the app using main.py or the executable file.  
+- **Authentication** – A passkey verification system ensures only authorized users can modify USB settings.  
+- **USB Enable/Disable** – Choose to enable or restrict USB storage access.  
+- **USB Formatting** – Select a USB drive and format it securely.  
+- **Help & Documentation** – Built-in guide for usability.  
 
 ## Functionality Overview  
-- Enable USB – Restores USB storage access.  
-- Disable USB – Blocks USB storage devices.  
-- Format Pendrive – Erases USB data securely.  
-- Help – Displays usage instructions.  
-- About Us – Provides project details.  
-- Project Details – Opens additional documentation.  
+- **Enable USB** – Restores USB storage access.  
+- **Disable USB** – Blocks USB storage devices.  
+- **Format Pendrive** – Erases USB data securely.  
+- **Help** – Displays usage instructions.  
+- **About Us** – Provides project details.  
+- **Project Details** – Opens additional documentation.  
 
 ## Acknowledgement  
 I sincerely thank Supraja Technologies for the opportunity to work on this project. I also appreciate my team member’s contribution to the backend development, which played a key role in its success.  
